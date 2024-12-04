@@ -14,7 +14,7 @@ To write a program to predict the marks scored by a student using the simple lin
 4. Evaluate and Visualize
 
 ## Program:
-```
+```py
 /*py
 Program to implement the simple linear regression model for predicting the marks scored.
 Developed by: Dhayananth.P.S
